@@ -4,13 +4,13 @@
 #' date: "Friday 4/10/26 at 3:00pm"
 #' ---
 #'
-#' Analyze data from the Qualtrics survey generated last week. 
-#' I have created some test observations, stored here: 
+#' Analyze data from a practice Qualtrics data set based on last year's survey.
+#' Practice data are stored here:
 #' https://github.com/UChicago-pol-methods/SOSC13300-W26/blob/main/data/SOSC%2013300_March%2027%2C%202024_15.06.csv
 #'
 #' Complete the analysis below and compile it using an R script, an R Markdown
 #' file, or a Quarto file.
-#' You can either read in the data in from the raw link, or download the data and read it in locally. 
+#' You can either read in the data from the raw link, or download the data and read it in locally. 
 #'
 #'
 #' ## 1. Read in data

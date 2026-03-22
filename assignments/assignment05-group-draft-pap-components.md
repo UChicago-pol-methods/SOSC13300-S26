@@ -29,8 +29,8 @@ Submit one shared Google Doc that includes:
 Objective: Ensure the survey is programmed correctly, questions are well-designed, and the data collected is ready for analysis.
 
 Assignments:
- - Survey Programming: Use Qualtrics to program the survey. Ensure that all the questions are correctly entered and encoded, the survey logic flows smoothly, and it is user-friendly for respondents. Download and run data checks during design.  - 
-Question Wording: Work closely with the Data Quality and Representation to ensure questions accurately capture the information needed to address the research questions.
+ - Survey Programming: Use Qualtrics to program the survey. Ensure that all the questions are correctly entered and encoded, the survey logic flows smoothly, and it is user-friendly for respondents. Download and run data checks during design.
+ - Question Wording: Work closely with the Data Quality and Representation group to ensure questions accurately capture the information needed to address the research questions.
  - Pre-test the survey: Conduct a pre-test of the survey with pilot data to identify any issues with question wording, logic, and overall survey design. Make necessary adjustments.
  - Data Preparation: Develop a plan for cleaning the data post-collection. This includes handling missing values and identifying and addressing outliers. Write the code for this. Document the code well so that it is understandable and reproducible.
 
