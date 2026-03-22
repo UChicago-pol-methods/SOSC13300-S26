@@ -48,3 +48,10 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .DS_Store
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
