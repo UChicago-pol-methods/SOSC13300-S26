@@ -55,3 +55,5 @@ rsconnect/
 *.fls
 *.log
 *.gz
+readings
+*.out
