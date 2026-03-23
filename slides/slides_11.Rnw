@@ -1,0 +1,280 @@
+\documentclass[xcolor={dvipsnames},handout]{beamer}
+
+\usepackage{../assets/pres-template_MOW}
+
+%--------------------------------------------------------------------------
+% Specific to this document ---------------------------------------
+%--------------------------------------------------------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\tabcolsep}{1.3pt}
+\title{Social Science Inquiry III}
+\subtitle{Week 1: Course introduction}
+\date{Spring 2026}
+\author{Molly Offer-Westort}
+\institute{Department of Political Science, \\University of Chicago}
+
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+%-------------------------------------------------------------------------------%
+\frame{\titlepage
+\thispagestyle{empty}
+}
+%-------------------------------------------------------------------------------%
+\begin{frame}{Overview}
+
+This course:\pause
+\begin{itemize}
+\item Part of a sequence \pause
+\begin{itemize}
+\item Fall: research design \pause
+\item Winter: methods \pause
+\item Spring: practical applications
+\end{itemize}
+\end{itemize}
+
+\pause
+
+Did you take SOSC 13200 in winter quarter?
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}
+
+\begin{center}
+Main take-aways from winter quarter?
+\end{center}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+
+\begin{frame}{Course objectives}
+\pause
+\begin{itemize}
+\item Students will approach a research question thinking like a social scientist; \pause
+\item Builds on foundations of descriptive and causal inference introduced in fall SSI I, with respect to both experimental and observational data \pause
+\item and the statistical methods, software introduced in winter SSI II. \pause
+\item Further exploration of how to design a study; \pause
+\item Present results; \pause
+\item Use data visualization effectively. 
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+%%% [[TEMPLATE]] %%%
+\begin{frame}{Course objectives}
+
+By the end of the quarter, you should be able to \dots\pause
+\begin{itemize}
+\item Apply the tools you have learned so far in this sequence (data analysis, programming, research design, hypothesis testing)\pause
+\item Use those tools and additional writing skills in producing a polished piece of research \pause
+\item Design and conduct an original experiment and analyze the results\pause
+\item Understand better the differences between observational and experimental research\pause
+\item Discuss some important issues in climate change policy and politics
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}{Software}
+
+\begin{itemize}
+\item Discuss. 
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}{More details}
+
+\begin{center}
+{[}See \href{https://github.com/UChicago-pol-methods/SOSC13300-W26/blob/main/sosc13300-syllabus-2026.pdf}{syllabus} {]}
+\end{center}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}{Assessment}
+
+\begin{itemize}
+\item Class participation: 14\% (contributions to collaborative work, discussions, and presentation)
+\item Research proposal: 15\%
+\item Writeup of section (theory, methods, or results): 15\%
+\item Other assignments: 8\% each (total 56\%)
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+
+
+\begin{frame}{Assignment for Friday}
+
+\begin{itemize}
+\item Ensure that software is up to date. \pause
+\item Set up your working directory. \pause
+\item Compile and submit a report.
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}
+
+\begin{center}
+Other questions/concerns about class policies?
+\end{center}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
+\begin{frame}{Getting started in R}
+
+\begin{center}
+{[} R script {]}
+\end{center}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+
+%-------------------------------------------------------------------------------%
+\end{document}
+%
+%-------------------------------------------------------------------------------%
+
+%%% [[TEMPLATE]] %%%
+\begin{frame}{Frametitle}
+
+\begin{itemize}
+\item xxx
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%NOTE%%%%%
+\note{
+\scriptsize \singlespacing
+
+\begin{itemize}
+\item xxxx
+\end{itemize}
+
+}
+
+%-------------------------------------------------------------------------------%
