@@ -1,12 +1,12 @@
 #' ---
-#' title: "Assignment 3, Social Science Inquiry III (SOSC13300-W26)"
+#' title: "Assignment 3, Social Science Inquiry III (SOSC13300-S26)"
 #' author: "<your name here>"
 #' date: "Friday 4/10/26 at 3:00pm"
 #' ---
 #'
 #' Analyze data from a practice Qualtrics data set based on last year's survey.
 #' Practice data are stored here:
-#' https://github.com/UChicago-pol-methods/SOSC13300-W26/blob/main/data/SOSC%2013300_March%2027%2C%202024_15.06.csv
+#' https://github.com/UChicago-pol-methods/SOSC13300-S26/blob/main/data/SOSC%2013300_March%2027%2C%202024_15.06.csv
 #'
 #' Complete the analysis below and compile it using an R script, an R Markdown
 #' file, or a Quarto file.

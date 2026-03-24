@@ -1,5 +1,5 @@
 #' ---
-#' title: "Assignment 1, Social Science Inquiry III (SOSC13300-W26)"
+#' title: "Assignment 1, Social Science Inquiry III (SOSC13300-S26)"
 #' author: "<your name here>"
 #' date: "Friday 3/27/26 at 3:00pm"
 #' ---

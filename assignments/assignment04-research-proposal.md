@@ -1,4 +1,4 @@
-# Assignment 4, Social Science Inquiry III (SOSC13300-W26)
+# Assignment 4, Social Science Inquiry III (SOSC13300-S26)
 
 Due Tuesday, April 14, 2026 at 11:59pm via Canvas
 
@@ -43,4 +43,3 @@ Decide on regression models for main effects and heterogeneous treatment effects
 ### Theory and literature
 
 Create an exhaustive spreadsheet of related papers, summarize each paper's design and contribution, and draft the literature motivation for the pre-analysis plan.
-

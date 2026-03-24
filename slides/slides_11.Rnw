@@ -148,7 +148,7 @@ By the end of the quarter, you should be able to \dots\pause
 \begin{frame}{More details}
 
 \begin{center}
-{[}See \href{https://github.com/UChicago-pol-methods/SOSC13300-W26/blob/main/sosc13300-syllabus-2026.pdf}{syllabus} {]}
+{[}See \href{https://github.com/UChicago-pol-methods/SOSC13300-S26/blob/main/sosc13300-syllabus-2026.pdf}{syllabus} {]}
 \end{center}
 
 \end{frame}

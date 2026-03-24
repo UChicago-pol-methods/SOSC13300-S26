@@ -1,4 +1,4 @@
-# Assignment 9, Social Science Inquiry III (SOSC13300-W26)
+# Assignment 9, Social Science Inquiry III (SOSC13300-S26)
 
 Due Friday, May 29, 2026 at 3:00pm via Canvas
 

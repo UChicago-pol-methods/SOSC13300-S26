@@ -1,4 +1,4 @@
-# Assignment 5, Social Science Inquiry III (SOSC13300-W26)
+# Assignment 5, Social Science Inquiry III (SOSC13300-S26)
 
 Due Friday, April 24, 2026 at 3:00pm via Google Docs
 
