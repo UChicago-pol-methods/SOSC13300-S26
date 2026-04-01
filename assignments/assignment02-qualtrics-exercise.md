@@ -70,8 +70,7 @@ Create two separate blocks for different framing messages. Each respondent shoul
 
 > Human emissions of greenhouse gasses are the primary cause of rising average global temperatures. If humans reduce emissions of greenhouse gasses below current rates future temperatures will be lower. This has consequences. For example, climate change will raise sea levels as ice caps melt; lower temperatures will reduce the damage to coastal ecosystems. The science is clear: we should do something about climate change to protect these ecosystems.
 
-In the survey flow, use the Randomizer feature to assign respondents to one of these two messages with equal probability:
-https://sites.williams.edu/psychdepartmentresources/random-assignment/
+In the survey flow, use the Randomizer feature to assign respondents to one of these two messages with equal probability.
 
 Create an embedded variable `Treatment_positive` that equals `0` for the negative framing and `1` for the positive framing.
 
