@@ -26,13 +26,13 @@ Submit one shared Google Doc that includes:
 
 ### Data collection and cleaning
 
-Objective: Ensure the survey is programmed correctly, questions are well-designed, and the data collected is ready for analysis.
+Objective: Ensure the survey is programmed correctly, finalized wording is implemented accurately, and the data collected is ready for analysis.
 
 Assignments:
- - Survey Programming: Use Qualtrics to program the survey. Ensure that all the questions are correctly entered and encoded, the survey logic flows smoothly, and it is user-friendly for respondents. Download and run data checks during design.
- - Question Wording: Work closely with the Data Quality and Representation group to ensure questions accurately capture the information needed to address the research questions.
+ - Survey Programming: Use Qualtrics to program the survey. Implement the treatment and outcome wording finalized by the Data Quality and Representation group, ensure that all questions are correctly entered and encoded, and make sure the survey logic flows smoothly and is user-friendly for respondents. Download and run data checks during design.
+ - Coding and variable setup: Work closely with the Data Quality and Representation group to implement the agreed wording, set up variable names and encodings, and document the codebook clearly.
  - Pre-test the survey: Conduct a pre-test of the survey with pilot data to identify any issues with question wording, logic, and overall survey design. Make necessary adjustments.
- - Data Preparation: Develop a plan for cleaning the data post-collection. This includes handling missing values and identifying and addressing outliers. Write the code for this. Document the code well so that it is understandable and reproducible.
+ - Data Preparation: Develop a plan for cleaning the data post-collection. This includes handling missing values, identifying and addressing outliers, and writing the coding needed for the final analytic data set. Do this in conversation with the Data Quality and Representation group. Document the code well so that it is understandable and reproducible.
 
 
 ### Data quality and representation
@@ -41,6 +41,7 @@ Objective: Ensure the data collected represents the target population and is of 
 
 Assignments:
  - Demographic Questions: Decide on which demographic questions to include to assess the representativeness of the sample compared to the target population. Consider age, gender, location, education, etc. Work closely with the Data Collection and Cleaning group to ensure questions are correctly represented. 
+ - Treatment and outcome wording: Take the lead on the wording of the treatment materials and outcome questions. Coordinate closely with the Data Collection and Cleaning group so that the programmed survey and coding scheme match the intended design.
  - Attention Checks: Design and implement attention check questions within the survey to assess the attentiveness and sincerity of respondents.
  - Analysis of Representativeness and Quality: Once data collection is complete, analyze how representative the sample is of the target population and the overall data quality. Write code to produce sample distribution table. Document the code well so that it is understandable and reproducible.
 
@@ -73,10 +74,13 @@ The class PAP should collectively cover:
 - Literature review (Theory and literature group)
 - Study sample population and size (Analysis group)
 - Study design
-  - Pre-experimental demographic questions with full questions and coding (Data quality and representation group)
-  - How to deal with missing data/outliers (Data quality and representation group)
-  - Experimental manipulation and treatment design with full content of treatment, Randomization procedures (Data quality and representation group)
-  - Outcome measurement with full questions and coding (Data quality and representation group)
+  - Pre-experimental demographic questions with full question wording (Data quality and representation group)
+  - Variable names and coding for demographic and survey measures (Data collection and cleaning group, in consultation with the Data quality and representation group)
+  - How to deal with missing data/outliers (Data collection and cleaning group, in consultation with the Data quality and representation group)
+  - Experimental manipulation and treatment wording with full content of treatment (Data quality and representation group)
+  - Randomization procedures and embedded-variable coding (Data collection and cleaning group, in consultation with the Data quality and representation group)
+  - Outcome measurement question wording (Data quality and representation group)
+  - Outcome coding and derived variables (Data collection and cleaning group, in consultation with the Data quality and representation group)
 - Analysis
   - Statistical analysis (Analysis group)
   - Heterogeneity analysis? (Analysis group)

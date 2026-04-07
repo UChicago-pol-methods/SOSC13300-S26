@@ -1,23 +1,24 @@
 #' ---
-#' title: "Assignment 3, Social Science Inquiry III (SOSC13300-S26)"
+#' title: "Assignment 4, Social Science Inquiry III (SOSC13300-S26)"
 #' author: "<your name here>"
-#' date: "Friday 4/10/26 at 3:00pm"
+#' date: "Tuesday 4/14/26 at 11:59pm"
 #' ---
 #'
 #' Analyze data from a practice Qualtrics data set based on last year's survey.
 #' Practice data are stored here:
 #' https://github.com/UChicago-pol-methods/SOSC13300-S26/blob/main/data/SOSC%2013300_March%2027%2C%202024_15.06.csv
 #'
-#' Complete the analysis below and compile it using an R script, an R Markdown
-#' file, or a Quarto file.
-#' You can either read in the data from the raw link, or download the data and read it in locally. 
+#' Complete the analysis below and compile it using an R script or python.
+#' Download the CSV from the GitHub blob page above and read it in locally.
 #'
 #'
 #' ## 1. Read in data
-#' Read in data: To get the data variable names in, but skipping some extraneous information in the second and third rows of the Qualtrics .csv file, use something like the below in R:
+#' Read in data: To get the data variable names in, but skipping the extra
+#' information in the second and third rows of the Qualtrics `.csv` file, use
+#' something like the below in R:
 #' 
 # file_name <- "../data/SOSC 13300_March 27, 2024_15.06.csv"
-# df_names <- readr::read_csv(file_name, n_max = 0) |>  names() |> tolower()
+# df_names <- readr::read_csv(file_name, n_max = 0) |> names() |> tolower()
 # data <- readr::read_csv(file_name, col_names = df_names, skip = 3)
 #' 
 # your code here

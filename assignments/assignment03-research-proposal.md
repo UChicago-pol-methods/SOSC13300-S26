@@ -1,6 +1,6 @@
-# Assignment 4, Social Science Inquiry III (SOSC13300-S26)
+# Assignment 3, Social Science Inquiry III (SOSC13300-S26)
 
-Due Tuesday, April 14, 2026 at 11:59pm via Canvas
+Due Friday, April 10, 2026 at 3:00pm via Canvas
 
 ## Goal
 
