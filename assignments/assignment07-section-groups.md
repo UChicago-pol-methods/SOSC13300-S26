@@ -10,7 +10,7 @@ Each group should submit one coherent section draft. Your group should draw on t
 - Matias Fernandez
 - Daniel Ra
 - Aditya Arun
-- Karolina Licka
+- Karolina Lickunas
 
 This group should explain the theoretical motivation for the study, connect the study to previous literature, and make clear what the current study contributes.
 
