@@ -1,6 +1,6 @@
 # Assignment 2, Social Science Inquiry III (SOSC13300-S26)
 
-Due Friday, April 3, 2026 at 3:00pm via Canvas
+Due Friday, April 3, 2026 at 3:00pm via Qualtrics
 
 Create a targeted Qualtrics survey that explores the relationship between political identity and attitudes toward environmental policies.
 
